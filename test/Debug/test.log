@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  string_view is only available with C++17 or later.
+C:\Users\Cool_zheka\Desktop\test\test\MyForm.h(54,16): warning C4309: =: усечение константного значения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  test.vcxproj -> C:\Users\Cool_zheka\Desktop\test\Debug\test.exe
